@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: url(..//assets/bodyimg.jpg);
+    margin: 0;
+    padding: 0;
+
+}
+    .bubble {
+        position: absolute;
+        z-index: 7;
+    }
